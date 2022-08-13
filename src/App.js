@@ -2,7 +2,7 @@ import React from 'react'
 
 function App() {
   return (
-    <div>App</div>
+    <h1 className='underline text-2xl'>App</h1>
   )
 }
 
